@@ -1,0 +1,34 @@
+D:\Диплом\Тест по философии\bin\Debug\Тест по философии.exe.config
+D:\Диплом\Тест по философии\bin\Debug\Тест по философии.exe
+D:\Диплом\Тест по философии\bin\Debug\Тест по философии.pdb
+D:\Диплом\Тест по философии\obj\Debug\Тест по философии.csprojAssemblyReference.cache
+D:\Диплом\Тест по философии\obj\Debug\Тест_по_философии.Authorization.resources
+D:\Диплом\Тест по философии\obj\Debug\Тест_по_философии.Properties.Resources.resources
+D:\Диплом\Тест по философии\obj\Debug\Тест по философии.csproj.GenerateResource.cache
+D:\Диплом\Тест по философии\obj\Debug\Тест по философии.csproj.CoreCompileInputs.cache
+D:\Диплом\Тест по философии\obj\Debug\Тест по философии.exe
+D:\Диплом\Тест по философии\obj\Debug\Тест по философии.pdb
+D:\Диплом\Тест по философии\obj\Debug\Тест_по_философии.Administrator.resources
+D:\Диплом\Тест по философии\obj\Debug\Тест_по_философии.Test.resources
+C:\Users\user\Desktop\Тест по философии\bin\Debug\Тест по философии.exe.config
+C:\Users\user\Desktop\Тест по философии\bin\Debug\Тест по философии.exe
+C:\Users\user\Desktop\Тест по философии\bin\Debug\Тест по философии.pdb
+C:\Users\user\Desktop\Тест по философии\obj\Debug\Тест по философии.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Тест по философии\obj\Debug\Тест_по_философии.Authorization.resources
+C:\Users\user\Desktop\Тест по философии\obj\Debug\Тест_по_философии.Properties.Resources.resources
+C:\Users\user\Desktop\Тест по философии\obj\Debug\Тест_по_философии.Administrator.resources
+C:\Users\user\Desktop\Тест по философии\obj\Debug\Тест_по_философии.Test.resources
+C:\Users\user\Desktop\Тест по философии\obj\Debug\Тест по философии.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Тест по философии\obj\Debug\Тест по философии.exe
+C:\Users\user\Desktop\Тест по философии\obj\Debug\Тест по философии.pdb
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\bin\Debug\Тест по философии.exe.config
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\bin\Debug\Тест по философии.exe
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\bin\Debug\Тест по философии.pdb
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Debug\Тест по философии.csprojAssemblyReference.cache
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Debug\Тест_по_философии.Authorization.resources
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Debug\Тест_по_философии.Properties.Resources.resources
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Debug\Тест_по_философии.Administrator.resources
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Debug\Тест_по_философии.Test.resources
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Debug\Тест по философии.csproj.GenerateResource.cache
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Debug\Тест по философии.exe
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Debug\Тест по философии.pdb

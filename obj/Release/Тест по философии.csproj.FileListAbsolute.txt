@@ -1,0 +1,11 @@
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\bin\Release\Тест по философии.exe.config
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\bin\Release\Тест по философии.exe
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\bin\Release\Тест по философии.pdb
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Release\Тест по философии.csprojAssemblyReference.cache
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Release\Тест_по_философии.Authorization.resources
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Release\Тест_по_философии.Properties.Resources.resources
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Release\Тест_по_философии.Administrator.resources
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Release\Тест_по_философии.Test.resources
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Release\Тест по философии.csproj.GenerateResource.cache
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Release\Тест по философии.exe
+C:\Users\wsr\Desktop\ДипломЧЕЙ-ТО\Тест по философии\obj\Release\Тест по философии.pdb
